@@ -56,10 +56,10 @@ All randomness (Python, NumPy, PyTorch, CUDA) is seeded with `42` for reproducib
 
 | Metric | Value |
 |---|---|
-| Overall accuracy | 88.7% |
+| Overall accuracy | 92.34% |
 | Weighted-F1 | 90.3% |
-| Macro-F1 | 40.8% |
-| Macro AUROC (one-vs-rest) | 88.3% |
+| Macro-F1 | 47.64% |
+| Macro AUROC (one-vs-rest) | 88.99% |
 | Expected Calibration Error (ECE) | 0.027 |
 | Trainable parameters | 85,814 |
 
